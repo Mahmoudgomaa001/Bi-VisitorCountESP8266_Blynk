@@ -24,11 +24,11 @@ char pass[] = "pass";
 
 
 
-#define inSensor 14   //D5
-#define outSensor 12  //D6
+#define inSensor D5  //D5
+#define outSensor D6  //D6
 
 #define redLed D0   //D0
-#define blueLed D2  //D0
+#define blueLed D2  //D2
 
 int inStatus;
 int outStatus;
