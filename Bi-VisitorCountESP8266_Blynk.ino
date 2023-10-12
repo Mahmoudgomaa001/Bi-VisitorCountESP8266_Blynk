@@ -1,10 +1,10 @@
 /* Fill in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL5S3O4jg73"
-#define BLYNK_TEMPLATE_NAME "BiDircVisitor"
-#define BLYNK_AUTH_TOKEN "cfZbuqhnRItU94GRL3GSl9RVvFZv4nD1"
+#define BLYNK_TEMPLATE_ID "BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "BLYNK_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "BLYNK_AUTH_TOKEN"
 
-char ssid[] = "TEdataCDE53B";  // Your WiFi credentials.
-char pass[] = "07914657xd";
+char ssid[] = "ssid";  // Your WiFi credentials.
+char pass[] = "pass";
 
 #define Max_Visitors 10
 
